@@ -1,0 +1,20 @@
+Spring
+Spring Boot
+Hibernate
+Micromenter
+Cucumber
+Junit
+Mokito
+Gradle
+Maven
+Mybatis
+Thymeleaf
+Flyway
+Lombok
+REST API
+Lagom
+Swagger
+Postman
+Jinja2
+Flask
+pip3
